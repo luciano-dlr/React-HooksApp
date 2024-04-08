@@ -4,7 +4,9 @@ export const HooksApp = () => {
 
   return (
     <div>
-      <text>HooksApp</text>
+      <p>Hola nachito sensei</p>
+      <hr />
+      <h4>proximamente resumen de hooksApp</h4>
     </div>
   )
 }
