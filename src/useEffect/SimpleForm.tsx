@@ -24,7 +24,7 @@ export const SimpleForm = () => {
   }
 
   useEffect(() => {
-   console.log('llamado effect');
+   console.log('llamado effect vamos leio');
    
   }, [])
   
